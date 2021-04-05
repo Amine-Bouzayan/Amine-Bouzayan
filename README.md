@@ -2,7 +2,7 @@
 - :octocat: I'm brand new for Github
 - 👀 I’m interested in UI & UX Design
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m working on building my first web site
+- 💞️ I’m working on Memory Card Game
 - :man: Pronouns: he/him
 - 📫 How to reach me aminebouzayan10@gmail.com
 
