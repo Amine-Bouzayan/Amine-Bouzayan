@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amine-Bouzayan
 - :octocat: I'm brand new for Github
-- 👀 I’m interested in UI & UX Design
+- 👀 I’m interested in web development and UI/UX Design
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m working on Memory Card Game
 - :man: Pronouns: he/him
