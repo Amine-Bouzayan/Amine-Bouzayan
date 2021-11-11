@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m working on todo list
-- :man: Pronouns: he/him
 - 📫 How to reach me aminebouzayan10@gmail.com
 
 <!---
