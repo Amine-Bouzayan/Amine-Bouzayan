@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Amine-Bouzayan
-- :octocat: I'm brand new for Github
 - 👀 I’m interested in web development and UI/UX Design
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m working on Memory Card Game
+- 🌱 I’m currently learning React
+- 💞️ I’m working on todo list
 - :man: Pronouns: he/him
 - 📫 How to reach me aminebouzayan10@gmail.com
 
