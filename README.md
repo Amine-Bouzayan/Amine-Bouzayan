@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amine-Bouzayan
-- 👀 I’m interested in web development and UI/UX Design
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m working on todo list
 - :man: Pronouns: he/him
