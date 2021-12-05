@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amine-Bouzayan
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React & Redux & Next
-- 💞️ I’m working on todo list
 - 📫 How to reach me aminebouzayan10@gmail.com
 
 <!---
